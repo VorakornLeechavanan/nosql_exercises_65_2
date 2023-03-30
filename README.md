@@ -57,7 +57,7 @@ The Relational Model will be more appropriate because the database needs to be a
 • Find the minimum marks scored by each student. <br />
 • Find the top two subjects based on average marks. <br />
 
-**Answer:**
+**Answer:** <br />
 **The result of creating the database "Grades"** <br />
 
 `db.collection.insertMany()` responsibles for adding many records in a row <br />
