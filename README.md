@@ -1,13 +1,13 @@
 ## nosql_exercises_65_2
 
 # Question 2
-** For each of the following applications <br />
+**For each of the following applications <br />
 a. IoT <br />
 b. E-commerce <br />
 c. Gaming <br />
 d. Finance <br />
 Propose an appropriate Relational Model or MongoDB database schema. For each application,
-clearly justify your choice of database. **
+clearly justify your choice of database.**
 
 # Question 3
 **The result of creating the database "Grades"**
