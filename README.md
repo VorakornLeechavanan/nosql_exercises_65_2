@@ -1,5 +1,10 @@
 ## nosql_exercises_65_2
 
+# Question 1
+**Question: You're creating a database to contain a set of sensor measurements from a two-dimensional grid.
+Each measurement is a time-sequence of readings, and each reading contains ten labeled values.
+Should you use the relational model or MongoDB? Please justify your answer** <br />
+
 # Question 2
 
 **Question: For each of the following applications <br />
@@ -22,7 +27,13 @@ The Relational Model will be more appropriate because the database needs to be a
 
 
 # Question 3
-**Task: Create and give MongoDB statements** <br />
+**Question: ** <br />
+**Create MongoDB database with following information.** <br />
+| 1) ({"name":"Ramesh","subject":"maths","marks":87})    | 
+| ------------------------------------------------------ | 
+| 2) ({"name":"Ramesh","subject":"english","marks":59})  | 
+| -----------------------------------------------------  | 
+
 **The result of creating the database "Grades"**
 ![Image 29-3-2566 BE at 22 58](https://user-images.githubusercontent.com/92812914/228854854-60ee1c2f-c873-40e8-8dfe-063d343a943c.jpeg)
 ![Image 29-3-2566 BE at 22 57](https://user-images.githubusercontent.com/92812914/228854828-0b36bf66-a175-4e1d-a854-550be2f2889d.jpeg)
