@@ -100,3 +100,5 @@ Find the minimum marks scored by each student <br />
 Find the top two subjects based on average marks <br />
 
 ![IMG_4744](https://user-images.githubusercontent.com/92812914/228854014-bc9ef419-c4af-4f35-8761-f84abafeff28.jpeg)
+
+> 6410546262 Vorakorn Leechavanan
