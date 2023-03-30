@@ -22,6 +22,7 @@ The Relational Model will be more appropriate because the database needs to be a
 
 
 # Question 3
+**Task: Create and give MongoDB statements** <br />
 **The result of creating the database "Grades"**
 ![Image 29-3-2566 BE at 22 58](https://user-images.githubusercontent.com/92812914/228854854-60ee1c2f-c873-40e8-8dfe-063d343a943c.jpeg)
 ![Image 29-3-2566 BE at 22 57](https://user-images.githubusercontent.com/92812914/228854828-0b36bf66-a175-4e1d-a854-550be2f2889d.jpeg)
