@@ -1,13 +1,18 @@
 ## nosql_exercises_65_2
 
+
 # Question 1
+
 **Question: You're creating a database to contain a set of sensor measurements from a two-dimensional grid.
 Each measurement is a time-sequence of readings, and each reading contains ten labeled values.
 Should you use the relational model or MongoDB? Please justify your answer** <br />
 
+**Answer: MongoDB because MongoDB has a good scaling performance, it can perform both horizontal scaling and vertical scaling. MongoDB also performs a query better and read faster than relational model. <br />
+
+
 # Question 2
 
-**Question: For each of the following applications <br />
+**Question: For each of the following applications <br /> 
 a. IoT <br />
 b. E-commerce <br />
 c. Gaming <br />
@@ -15,10 +20,10 @@ d. Finance <br />
 Propose an appropriate Relational Model or MongoDB database schema. For each application,
 clearly justify your choice of database.**
 
-Answer: <br />
+**Answer:** <br />
 
 **- IoT** <br />
-The MongoDB database schema will be more appropriate because it will consume less space and it is written more rapid than the Relational Model <br />
+The MongoDB database schema will be more appropriate because it will consume less space and it is written more faster than the Relational Model <br />
 
 **- E-commerce** <br />
 The Relational Model will be more appropriate because the system is complex, the relation between clients and dealer need to be provided clearly <br />
