@@ -29,7 +29,9 @@ The Relational Model will be more appropriate because the database needs to be a
 # Question 3
 **Question: ** <br />
 **Create MongoDB database with following information.** <br />
-| 1) ({"name":"Ramesh","subject":"maths","marks":87})                  | 
+|                                                                      |
+|----------------------------------------------------------------------|
+| 1) ({"name":"Ramesh","subject":"maths","marks":87})                  |
 | 2) ({"name":"Ramesh","subject":"english","marks":59})                | 
 | 3) ({"name":"Ramesh","subject":"science","marks":77})                |
 | 4) ({"name":"Rav","subject":"maths","marks":62})                     |
