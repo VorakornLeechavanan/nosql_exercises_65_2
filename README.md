@@ -1,13 +1,25 @@
 ## nosql_exercises_65_2
 
 # Question 2
-**For each of the following applications <br />
+
+**Question: For each of the following applications <br />
 a. IoT <br />
 b. E-commerce <br />
 c. Gaming <br />
 d. Finance <br />
 Propose an appropriate Relational Model or MongoDB database schema. For each application,
 clearly justify your choice of database.**
+
+Answer: 
+**IoT** <br />
+The MongoDB database schema will be more appropriate because it will consume less space and it is written more rapid than the Relational Model <br />
+**E-commerce** <br />
+The Relational Model will be more appropriate because the system is complex, the relation between clients and dealer need to be provided clearly <br />
+**Gaming** <br />
+The MongoDB database will be more appropriate because the video games need to collect player's information and other details, so it requires a large and flexible database <br />
+**Finance** <br />
+The Relational Model will be more appropriate because the database needs to be able to collect an enormous size of accounts, customers and financial evidence. Furthermore, the transaction needs to be implemented accurately to ensure that no errors are happened <br />
+
 
 # Question 3
 **The result of creating the database "Grades"**
