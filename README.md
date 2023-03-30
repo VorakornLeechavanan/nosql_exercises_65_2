@@ -27,7 +27,7 @@ The Relational Model will be more appropriate because the system is complex, the
 The MongoDB database will be more appropriate because the video games need to collect player's information and other details, so it requires a large and flexible database <br />
 
 **- Finance** <br />
-The Relational Model will be more appropriate because the database needs to be able to collect an enormous size of accounts, customers and financial evidence. Furthermore, the transaction needs to be implemented accurately to ensure that no errors are happened <br />
+The Relational Model will be more appropriate because the database needs to be able to collect an enormous size of accounts, customers and financial evidence. Furthermore, the relational model can cope with the transaction which needs to be implemented accurately to ensure that no errors are happened  <br />
 
 
 # Question 3
