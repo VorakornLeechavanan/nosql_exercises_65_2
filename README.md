@@ -7,7 +7,7 @@
 Each measurement is a time-sequence of readings, and each reading contains ten labeled values.
 Should you use the relational model or MongoDB? Please justify your answer** <br />
 
-**Answer:** MongoDB because MongoDB has a good scaling performance, it can perform both horizontal scaling and vertical scaling. MongoDB also performs a query better and read faster than relational model. <br />
+**Answer:** MongoDB because it has a good scaling performance that can perform both horizontal scaling and vertical scaling. MongoDB also convenience to be queried. Reading and writing the data are faster than the relational model. <br />
 
 
 # Question 2
@@ -23,7 +23,7 @@ clearly justify your choice of database.**
 **Answer:** <br />
 
 **- IoT** <br />
-The MongoDB database schema will be more appropriate because it will consume less space and it is written more faster than the Relational Model <br />
+The MongoDB database schema will be more appropriate because it will consume less space and it writes the data faster than the Relational Model <br />
 
 **- E-commerce** <br />
 The Relational Model will be more appropriate because the system is complex, the relation between clients and dealer need to be provided clearly <br />
