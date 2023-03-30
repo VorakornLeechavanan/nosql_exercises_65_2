@@ -7,7 +7,7 @@
 Each measurement is a time-sequence of readings, and each reading contains ten labeled values.
 Should you use the relational model or MongoDB? Please justify your answer** <br />
 
-**Answer: MongoDB because MongoDB has a good scaling performance, it can perform both horizontal scaling and vertical scaling. MongoDB also performs a query better and read faster than relational model. <br />
+**Answer:** MongoDB because MongoDB has a good scaling performance, it can perform both horizontal scaling and vertical scaling. MongoDB also performs a query better and read faster than relational model. <br />
 
 
 # Question 2
